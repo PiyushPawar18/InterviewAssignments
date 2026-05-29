@@ -47,7 +47,6 @@ const page = () => {
       </div>
     </section>
 
-      <FooterSection />
     </div>
   )
 }

@@ -39,8 +39,6 @@ const page = () => {
       <ScrollMarqueeSection />
       <FAQSection faqs={faqs} des={des} />
       <ParallaxSection />
-      <FooterSection />
-      {/* <ProductSolutionsSection /> */}
     </div>
   );
 };
