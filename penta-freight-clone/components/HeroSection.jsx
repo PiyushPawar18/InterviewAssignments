@@ -1,11 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import CinematicGrid from "./CinematicGrid";
-import WhyChooseSection from "./WhyChooseSection";
-import ReviewsSection from "./ReviewSection";
+import CinematicGrid,{WhyChooseSection , ReviewsSection} from "./CinematicGrid";
 import CertificationsSection, { WordsBranchLocationSection } from "./CertificationsSection";
 import AchievementsSection, { PhilosophySection } from "./AchivmentSection";
-import { LucideAward, PhilippinePeso } from "lucide-react";
 import AwardsSection from "./AwardSession";
 
 const HeroSection = () => {
